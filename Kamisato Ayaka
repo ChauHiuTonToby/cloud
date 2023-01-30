@@ -1,0 +1,51 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name=“description” content=“This is a website that to introduce my favorite artist”>
+<meta name=“viewport” content=“width=device-width, initial-scale=1”>
+
+<style>
+body {
+  background-color: #b7cbe1;
+}
+
+h1 {
+  color: white;
+  text-align: align to left;
+  font-size: 90px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+
+<title>Genshin Impact</title>
+</head>
+
+<body>
+
+<!headings>
+<h1>Kamisato Ayaka</h1>
+
+
+<!Links>
+<a href="https://www.youtube.com/watch?v=vsCO7C416bs">Learn more</a>
+</br> </br>
+
+
+<!image>
+<img src="https://www.pcinvasion.com/wp-content/uploads/2021/07/Genshin-Impact-Ayaka-guide-weapons-artifacts-talents-build-mistsplitter-reforged-.jpg?resize=1200%2C600" alt="mirrorchristmas" width="600">
+
+<!list>
+<h2>About Kamisato Ayaka</h2>
+
+<ul>
+  <li>Kamisato Ayaka is a new 5-star character who joins Genshin Impact‘s roster as part of the version 2.0 update. Armed with a sword and the power of Cryo, she stands as the scion of the Yashiro Commission’s Kamisato Clan. </li>
+
+</ul>  
+
+
+</body>
+</html>
